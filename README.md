@@ -1,3 +1,42 @@
+<h1 align="center">Alex Sullca</h1>
+
+<p align="center">
+  <strong>Systems Engineering Graduate</strong> · Lima, Perú
+  <br>
+  Interested in Cloud Computing, Networking and IT Infrastructure.
+</p>
+
+<p align="center">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="TU_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi, I'm Alex Sullca 👋</h1>
 
 <h3 align="center">Systems Engineering Graduate | AWS Cloud Practitioner | Networking</h3>
