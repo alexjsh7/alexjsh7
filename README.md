@@ -105,20 +105,6 @@ Mi objetivo es continuar desarrollándome profesionalmente en las áreas de **Cl
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjsh7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjsh7&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alexjsh7&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Proyectos destacados
 
 ### 🌐 NetLab — Laboratorio de Redes Cisco
@@ -156,14 +142,6 @@ Prácticas orientadas al aprendizaje y administración de servicios de Amazon We
 - Egresado · 2024-2.
 
 ---
-
-## 💡 Competencias
-
-- Pensamiento analítico y resolución de problemas.
-- Aprendizaje autónomo y adaptabilidad tecnológica.
-- Documentación técnica.
-- Organización y gestión de prioridades.
-- Trabajo en equipo.
 
 ## 🌎 Idiomas
 
