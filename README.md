@@ -7,44 +7,52 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="alex.sullcah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="TU_LINKEDIN"><img height="25px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwWiIvPjwvc3ZnPg%3D%3D&logoColor=white" /></a>
+  <a href="mailto:alex.sullcah@gmail.com"><img height="25px" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="TU_PORTAFOLIO"><img height="25px" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-009B8E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA0aDR2Mmg0YTIgMiAwIDAgMSAyIDJ2MTFhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWOEEyIDIgMCAwIDEgNiA2aDRWNGEyIDIgMCAwIDEgMi0yem0wIDJ2Mmg0VjZoLTR6bS00IDRoMTJWOEg2djJ6Ii8+PC9zdmc%2b&logoColor=white" /></a>
+  <a href="https://github.com/alexjsh7"><img height="25px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+## 🎓 Formación académica
 
-## 👨‍💻 Sobre mí
-
-**Egresado de Ingeniería de Sistemas** de la Universidad Nacional Mayor de San Marcos (UNMSM).
-
-Me interesa el diseño, implementación y administración de infraestructura tecnológica, especialmente en **Cloud Computing (AWS)** y **redes de conectividad**.
-
-Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y formación en tecnologías de redes Cisco. Me gusta complementar el aprendizaje con laboratorios prácticos, configuraciones y proyectos que me permitan aplicar conocimientos de infraestructura, conectividad y servicios en la nube.
-
-Mi objetivo es continuar desarrollándome profesionalmente en las áreas de **Cloud y Networking**, fortaleciendo mis habilidades técnicas y participando en proyectos que aporten soluciones tecnológicas.
-
-### 📫 Cómo contactarme
-
-- 💼 **LinkedIn**: [Mi perfil de LinkedIn](TU_LINKEDIN)
-- 📧 **Email**: alex.sullcah@gmail.com
-- 💻 **GitHub**: [github.com/alexjsh7](https://github.com/alexjsh7)
-
-### 🌱 Actualmente enfocado en
-
-- **AWS Cloud** — Profundizar en servicios de infraestructura, almacenamiento, redes y seguridad de AWS.
-- **Networking** — Fortalecer conocimientos de switching, routing, VLAN, OSPF y troubleshooting.
-- **Laboratorios prácticos** — Desarrollar proyectos de AWS y Cisco Packet Tracer.
-- **Infraestructura TI** — Aprender sobre administración, configuración y mantenimiento de servicios tecnológicos.
+<table>
+  <tr>
+    <th width="450">Institución</th>
+    <th width="300">Formación</th>
+    <th width="125">Periodo</th>
+  </tr>
+  <tr>
+    <td>Universidad Nacional Mayor de San Marcos (UNMSM)</td>
+    <td>Ingeniería de Sistemas · Egresado</td>
+    <td>2024-2</td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 AWS Certifications & Credentials
+## 👨🏻‍💻 Sobre mí
+
+Soy egresado de **Ingeniería de Sistemas de la Universidad Nacional Mayor de San Marcos (UNMSM)**, apasionado por la tecnología y la construcción de soluciones que permitan mejorar la infraestructura y los servicios tecnológicos.
+
+Mi enfoque profesional está orientado a **Cloud Computing (AWS), Networking e infraestructura TI**. Me interesa explorar cómo se diseñan, implementan y administran entornos tecnológicos seguros, escalables y eficientes, integrando servicios en la nube y tecnologías de conectividad.
+
+Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y conocimientos en tecnologías Cisco. Disfruto enfrentar desafíos técnicos, experimentar mediante laboratorios y transformar los conocimientos adquiridos en soluciones prácticas.
+
+> *Mi objetivo es crecer profesionalmente en Cloud y Networking, participando en proyectos de infraestructura y transformación tecnológica.*
+
+### 🚀 Actualmente enfocado en
+
+- ☁️ **AWS Cloud** — Profundizar en servicios de infraestructura, almacenamiento, redes y seguridad de AWS.
+- 🌐 **Networking** — Fortalecer conocimientos de switching, routing, VLAN, OSPF y troubleshooting.
+- 🧪 **Laboratorios prácticos** — Desarrollar proyectos de AWS y Cisco Packet Tracer.
+- 🖥️ **Infraestructura TI** — Aprender sobre administración, configuración y mantenimiento de servicios tecnológicos.
+
+---
+
+## ☁️ Credenciales y logros
 
 <details open>
-<summary><b>🎓 AWS Certifications & Learning Badges</b></summary>
+<summary><b>🏅 Mis certificaciones y reconocimientos</b></summary>
 <br>
 
 <div align="center">
@@ -134,29 +142,10 @@ Prácticas orientadas al aprendizaje y administración de servicios de Amazon We
 
 ---
 
-## 🎓 Formación académica
-
-**Universidad Nacional Mayor de San Marcos (UNMSM)**
-
-- Ingeniería de Sistemas.
-- Egresado · 2024-2.
-
----
-
 ## 🌎 Idiomas
 
 - **Español:** Nativo.
 - **Inglés:** Básico (A2) — ICPNA.
-
----
-
-## 🎭 Intereses profesionales
-
-- ☁️ Cloud Computing e infraestructura AWS.
-- 🌐 Redes de conectividad y administración de infraestructura.
-- 🔐 Seguridad y buenas prácticas en entornos tecnológicos.
-- 💻 Automatización y desarrollo de soluciones tecnológicas.
-- 📚 Aprendizaje continuo y nuevas tecnologías.
 
 ---
 
