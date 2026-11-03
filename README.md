@@ -7,118 +7,189 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:alex.sullcah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="alex.sullcah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
 
 ## 👨‍💻 Sobre mí
 
-Soy egresado de Ingeniería de Sistemas de la **Universidad Nacional Mayor de San Marcos (UNMSM)**, con interés en el diseño, implementación y administración de soluciones tecnológicas, especialmente en infraestructura Cloud con AWS y redes de conectividad.
+**Egresado de Ingeniería de Sistemas** de la Universidad Nacional Mayor de San Marcos (UNMSM).
 
-Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y formación en tecnologías de redes Cisco. Mi aprendizaje se complementa con laboratorios prácticos y proyectos personales en los que aplico conocimientos de configuración de redes, administración de recursos en la nube y resolución de problemas técnicos.
+Me interesa el diseño, implementación y administración de infraestructura tecnológica, especialmente en **Cloud Computing (AWS)** y **redes de conectividad**.
 
-Me interesa seguir desarrollándome en el ámbito de la infraestructura tecnológica, fortaleciendo mis conocimientos y adquiriendo experiencia mediante proyectos y nuevos desafíos.
+Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y formación en tecnologías de redes Cisco. Me gusta complementar el aprendizaje con laboratorios prácticos, configuraciones y proyectos que me permitan aplicar conocimientos de infraestructura, conectividad y servicios en la nube.
 
-> 🎯 Mi objetivo es iniciar mi carrera profesional en las áreas de **Cloud y Networking**, contribuyendo a la implementación, administración y mejora de soluciones de infraestructura TI.
+Mi objetivo es continuar desarrollándome profesionalmente en las áreas de **Cloud y Networking**, fortaleciendo mis habilidades técnicas y participando en proyectos que aporten soluciones tecnológicas.
+
+### 📫 Cómo contactarme
+
+- 💼 **LinkedIn**: [Mi perfil de LinkedIn](TU_LINKEDIN)
+- 📧 **Email**: alex.sullcah@gmail.com
+- 💻 **GitHub**: [github.com/alexjsh7](https://github.com/alexjsh7)
+
+### 🌱 Actualmente enfocado en
+
+- **AWS Cloud** — Profundizar en servicios de infraestructura, almacenamiento, redes y seguridad de AWS.
+- **Networking** — Fortalecer conocimientos de switching, routing, VLAN, OSPF y troubleshooting.
+- **Laboratorios prácticos** — Desarrollar proyectos de AWS y Cisco Packet Tracer.
+- **Infraestructura TI** — Aprender sobre administración, configuración y mantenimiento de servicios tecnológicos.
 
 ---
 
-## 🎓 Formación académica
+## 🏆 AWS Certifications & Credentials
 
-- **Ingeniería de Sistemas** — Universidad Nacional Mayor de San Marcos (UNMSM).
-  - Egresado · 2024-2.
+<details>
+<summary><b>🎓 AWS Certifications & Learning Badges</b></summary>
+<br>
 
-## 🏅 Certificaciones y cursos
+<div align="center">
 
-- **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services.
-- **Cisco CCNA 200-301: The Complete Guide to Getting Certified** — Udemy.
-- **Máster en Coding** — DEV.F. (240 horas).
-- **Programa Experto en Microsoft Excel – Nivel Intermedio** — CINFO / UNMSM.
+<!-- AWS Certified Cloud Practitioner -->
+<a href="[TU_ENLACE_CREDLY_CLOUD_PRACTITIONER](https://www.credly.com/badges/9dea5d29-e0f9-4eb8-8310-3e7c28feff54/public_url)" target="_blank">
+  <img src="TU_IMAGEN_CLOUD_PRACTITIONER" alt="AWS Certified Cloud Practitioner" width="100px">
+</a>
 
-## ☁️ Tecnologías y herramientas
+<!-- AWS Cloud Quest -->
+<a href="[TU_ENLACE_CREDLY_CLOUD_QUEST](https://www.credly.com/badges/00fe690d-1925-4569-bb16-8f0b7895affc/public_url)" target="_blank">
+  <img src="TU_IMAGEN_CLOUD_QUEST" alt="AWS Cloud Quest" width="100px">
+</a>
 
-### Cloud Computing
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white">
-</p>
+</div>
+</details>
 
-### Redes y conectividad
-<p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/Packet%20Tracer-00AEEF?style=flat-square">
-  <img src="https://img.shields.io/badge/VLAN-00599C?style=flat-square">
-  <img src="https://img.shields.io/badge/OSPF-00599C?style=flat-square">
-  <img src="https://img.shields.io/badge/DHCP-00599C?style=flat-square">
-  <img src="https://img.shields.io/badge/NAT%2FPAT-00599C?style=flat-square">
-  <img src="https://img.shields.io/badge/ACL-00599C?style=flat-square">
-</p>
+## 💻 Tecnologías y herramientas
 
-### Desarrollo y bases de datos
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-</p>
+<div align="center">
 
-### Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-</p>
+**Cloud Computing**
 
-## 🚀 Proyectos
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-00AEEF?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-00599C?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-00599C?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-00599C?style=for-the-badge)
+![NAT/PAT](https://img.shields.io/badge/NAT%2FPAT-00599C?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-00599C?style=for-the-badge)
+
+**Desarrollo y bases de datos**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjsh7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjsh7&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alexjsh7&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
 
 ### 🌐 NetLab — Laboratorio de Redes Cisco
 
-Laboratorio práctico desarrollado en Cisco Packet Tracer, enfocado en la implementación y configuración de una infraestructura de red.
+Proyecto práctico desarrollado en Cisco Packet Tracer, enfocado en la implementación y configuración de una infraestructura de red.
 
 - Segmentación de red mediante VLAN.
-- Configuración de enrutamiento OSPF.
-- Implementación de servicios DHCP.
-- Configuración de NAT/PAT.
-- Aplicación de listas de control de acceso (ACL).
+- Configuración de enlaces troncales y enrutamiento inter-VLAN.
+- Implementación de OSPF.
+- Configuración de servicios DHCP y DHCP Relay.
+- Implementación de NAT/PAT y ACL.
+- Configuración de seguridad y administración de dispositivos Cisco.
 - Diagnóstico y solución de problemas de conectividad.
 
 **Tecnologías:** Cisco Packet Tracer · VLAN · OSPF · DHCP · NAT/PAT · ACL.
 
 ### ☁️ Laboratorios AWS
 
-Prácticas orientadas al aprendizaje de servicios y administración de infraestructura en Amazon Web Services.
+Prácticas orientadas al aprendizaje y administración de servicios de Amazon Web Services.
 
-- Configuración y administración de buckets S3.
-- Exploración de instancias EC2.
-- Configuración de redes virtuales mediante VPC.
-- Gestión de usuarios y permisos con IAM.
+- Configuración y administración de buckets Amazon S3.
+- Exploración y configuración de instancias Amazon EC2.
+- Implementación de redes virtuales mediante Amazon VPC.
+- Administración de usuarios, grupos y permisos mediante IAM.
 
 **Tecnologías:** AWS · S3 · EC2 · VPC · IAM.
+
+---
+
+## 🎓 Formación académica
+
+**Universidad Nacional Mayor de San Marcos (UNMSM)**
+
+- Ingeniería de Sistemas.
+- Egresado · 2024-2.
+
+---
 
 ## 💡 Competencias
 
 - Pensamiento analítico y resolución de problemas.
-- Aprendizaje autónomo y adaptabilidad.
+- Aprendizaje autónomo y adaptabilidad tecnológica.
 - Documentación técnica.
 - Organización y gestión de prioridades.
 - Trabajo en equipo.
 
 ## 🌎 Idiomas
 
-- Español: Nativo.
-- Inglés: Básico (A2) — ICPNA.
+- **Español:** Nativo.
+- **Inglés:** Básico (A2) — ICPNA.
 
 ---
 
-<p align="center">
-  <i>En constante aprendizaje y desarrollo profesional en Cloud Computing y Networking.</i>
-</p>
+## 🎭 Intereses profesionales
+
+- ☁️ Cloud Computing e infraestructura AWS.
+- 🌐 Redes de conectividad y administración de infraestructura.
+- 🔐 Seguridad y buenas prácticas en entornos tecnológicos.
+- 💻 Automatización y desarrollo de soluciones tecnológicas.
+- 📚 Aprendizaje continuo y nuevas tecnologías.
+
+---
+
+<div align="center">
+
+### 💬 ¡Conectemos!
+
+Estoy interesado en aprender, compartir conocimientos y participar en proyectos relacionados con Cloud Computing, Networking e infraestructura TI.
+
+**¡Siempre abierto a nuevos desafíos y oportunidades de aprendizaje!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexjsh7)
+
+</div>
