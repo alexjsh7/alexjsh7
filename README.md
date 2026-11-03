@@ -14,6 +14,7 @@
   <a href="TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
+---
 
 ## 👨‍💻 Sobre mí
 
@@ -59,17 +60,19 @@ Mi objetivo es continuar desarrollándome profesionalmente en las áreas de **Cl
 </div>
 </details>
 
+---
+
 ## 💻 Tecnologías y herramientas
 
 <div align="center">
 
 **Cloud Computing**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD3444?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Networking**
 
