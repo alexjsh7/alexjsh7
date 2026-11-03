@@ -42,20 +42,18 @@ Mi objetivo es continuar desarrollándome profesionalmente en las áreas de **Cl
 
 ## 🏆 AWS Certifications & Credentials
 
-<details>
+<details open>
 <summary><b>🎓 AWS Certifications & Learning Badges</b></summary>
 <br>
 
 <div align="center">
 
-<!-- AWS Certified Cloud Practitioner -->
-<a href="[TU_ENLACE_CREDLY_CLOUD_PRACTITIONER](https://www.credly.com/badges/9dea5d29-e0f9-4eb8-8310-3e7c28feff54/public_url)" target="_blank">
-  <img src="TU_IMAGEN_CLOUD_PRACTITIONER" alt="AWS Certified Cloud Practitioner" width="100px">
+<a href="https://www.credly.com/badges/9dea5d29-e0f9-4eb8-8310-3e7c28feff54/public_url" target="_blank">
+  <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100px">
 </a>
 
-<!-- AWS Cloud Quest -->
-<a href="[TU_ENLACE_CREDLY_CLOUD_QUEST](https://www.credly.com/badges/00fe690d-1925-4569-bb16-8f0b7895affc/public_url)" target="_blank">
-  <img src="TU_IMAGEN_CLOUD_QUEST" alt="AWS Cloud Quest" width="100px">
+<a href="https://www.credly.com/badges/00fe690d-1925-4569-bb16-8f0b7895affc/public_url" target="_blank">
+  <img src="aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest" width="100px">
 </a>
 
 </div>
