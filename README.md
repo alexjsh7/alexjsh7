@@ -61,7 +61,7 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
   <br>
 
   <details open>
-    <summary style="cursor: pointer;"><b>🎓 Formación en Desarrollo Web</b></summary>
+    <summary style="cursor: pointer;"><b>🏅 Desarrollo Web - Dev.F</b></summary>
     <br>
     <a href="https://edu.devf.la/verify/946002e97fc3d0fd2ad626ac2a57f64cc37042c256fa00355959e9cada89786e" target="_blank" style="text-decoration: none;"><img src="devf-full-stack.png" alt="DEV.F - Desarrollo Web Full Stack" width="100px"></a>
   </details>
@@ -94,10 +94,10 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
 **Desarrollo y bases de datos**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
