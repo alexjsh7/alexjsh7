@@ -61,7 +61,7 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
   <br>
 
   <details open>
-    <summary style="cursor: pointer;"><b>🏅 Desarrollo Web - Dev.F</b></summary>
+    <summary style="cursor: pointer;"><b>🏅 Desarrollo Web Full Stack - Dev.F</b></summary>
     <br>
     <a href="https://edu.devf.la/verify/946002e97fc3d0fd2ad626ac2a57f64cc37042c256fa00355959e9cada89786e" target="_blank" style="text-decoration: none;"><img src="devf-full-stack.png" alt="DEV.F - Desarrollo Web Full Stack" width="100px"></a>
   </details>
