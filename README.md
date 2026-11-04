@@ -13,20 +13,39 @@
   <a href="https://github.com/alexjsh7"><img height="25px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-## 🎓 Formación académica
+---
 
-<table>
-  <tr>
-    <th width="450">Institución</th>
-    <th width="300">Formación</th>
-    <th width="125">Periodo</th>
-  </tr>
-  <tr>
-    <td>Universidad Nacional Mayor de San Marcos (UNMSM)</td>
-    <td>Ingeniería de Sistemas · Egresado</td>
-    <td>2024-2</td>
-  </tr>
-</table>
+## 🗂️ Proyectos destacados
+
+### 🌐 NetLab — Laboratorio de Redes Cisco
+
+Laboratorio práctico desarrollado en Cisco Packet Tracer, orientado al diseño, implementación y administración de una infraestructura de red empresarial.
+
+- Segmentación de red mediante VLAN y configuración de enlaces troncales.
+- Implementación de enrutamiento inter-VLAN y protocolo OSPF.
+- Configuración de servicios DHCP y DHCP Relay.
+- Implementación de NAT/PAT y listas de control de acceso (ACL).
+- Aplicación de medidas de seguridad y administración de dispositivos Cisco.
+- Diagnóstico y resolución de problemas de conectividad.
+
+**Tecnologías:** Cisco Packet Tracer · VLAN · OSPF · DHCP · NAT/PAT · ACL.
+
+[Ver proyecto en GitHub](TU_REPOSITORIO_NETLAB)
+
+### ☁️ Laboratorios AWS
+
+Prácticas orientadas a la exploración, configuración y administración de servicios de infraestructura en Amazon Web Services.
+
+- **Amazon S3:** creación y administración de buckets y almacenamiento de objetos.
+- **Amazon EC2:** exploración y configuración de instancias virtuales.
+- **Amazon VPC:** configuración de redes virtuales y sus componentes.
+- **AWS IAM:** administración de usuarios, grupos y permisos de acceso.
+
+**Tecnologías:** AWS · S3 · EC2 · VPC · IAM.
+
+[Ver proyecto en GitHub](TU_REPOSITORIO_AWS)
+
+
 
 ---
 
@@ -66,6 +85,30 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
     <a href="https://edu.devf.la/verify/946002e97fc3d0fd2ad626ac2a57f64cc37042c256fa00355959e9cada89786e" target="_blank" style="text-decoration: none;"><img src="devf-full-stack.png" alt="DEV.F - Desarrollo Web Full Stack" width="100px"></a>
   </details>
 </blockquote>
+
+---
+
+## 🎓 Formación académica
+
+<table>
+  <tr>
+    <th width="450">Institución</th>
+    <th width="300">Formación</th>
+    <th width="125">Periodo</th>
+  </tr>
+  <tr>
+    <td>Universidad Nacional Mayor de San Marcos (UNMSM)</td>
+    <td>Ingeniería de Sistemas · Egresado</td>
+    <td>2024-2</td>
+  </tr>
+</table>
+
+---
+
+## 🌎 Idiomas
+
+- **Español:** Nativo.
+- **Inglés:** Básico (A2) — ICPNA.
 
 ---
 
@@ -109,42 +152,6 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Proyectos destacados
-
-### 🌐 NetLab — Laboratorio de Redes Cisco
-
-Proyecto práctico desarrollado en Cisco Packet Tracer, enfocado en la implementación y configuración de una infraestructura de red.
-
-- Segmentación de red mediante VLAN.
-- Configuración de enlaces troncales y enrutamiento inter-VLAN.
-- Implementación de OSPF.
-- Configuración de servicios DHCP y DHCP Relay.
-- Implementación de NAT/PAT y ACL.
-- Configuración de seguridad y administración de dispositivos Cisco.
-- Diagnóstico y solución de problemas de conectividad.
-
-**Tecnologías:** Cisco Packet Tracer · VLAN · OSPF · DHCP · NAT/PAT · ACL.
-
-### ☁️ Laboratorios AWS
-
-Prácticas orientadas al aprendizaje y administración de servicios de Amazon Web Services.
-
-- Configuración y administración de buckets Amazon S3.
-- Exploración y configuración de instancias Amazon EC2.
-- Implementación de redes virtuales mediante Amazon VPC.
-- Administración de usuarios, grupos y permisos mediante IAM.
-
-**Tecnologías:** AWS · S3 · EC2 · VPC · IAM.
-
----
-
-## 🌎 Idiomas
-
-- **Español:** Nativo.
-- **Inglés:** Básico (A2) — ICPNA.
 
 ---
 
