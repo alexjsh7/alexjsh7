@@ -49,24 +49,23 @@ Cuento con la certificación **AWS Certified Cloud Practitioner (CLF-C02)** y co
 
 ---
 
-## ☁️ Credenciales y logros
+## 🏆 Certificaciones
 
-<details open>
-<summary><b>🏅 Mis certificaciones y reconocimientos</b></summary>
-<br>
+<blockquote>
+  <details open>
+    <summary style="cursor: pointer;"><b>🏅 AWS Cloud</b></summary>
+    <br>
+    <a href="https://credly.com" target="_blank" style="text-decoration: none;"><img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100px" style="margin-right: 15px;"></a><a href="https://credly.com" target="_blank" style="text-decoration: none;"><img src="aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest" width="100px"></a>
+  </details>
 
-<div align="center">
+  <br>
 
-<a href="https://www.credly.com/badges/9dea5d29-e0f9-4eb8-8310-3e7c28feff54/public_url" target="_blank">
-  <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100px">
-</a>
-
-<a href="https://www.credly.com/badges/00fe690d-1925-4569-bb16-8f0b7895affc/public_url" target="_blank">
-  <img src="aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest" width="100px">
-</a>
-
-</div>
-</details>
+  <details open>
+    <summary style="cursor: pointer;"><b>🏅 Desarrollo Web</b></summary>
+    <br>
+    <a href="https://devf.la" target="_blank" style="text-decoration: none;"><img src="devf-full-stack.png" alt="DEV.F - Desarrollo Web Full Stack" width="100px"></a>
+  </details>
+</blockquote>
 
 ---
 
