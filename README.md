@@ -19,13 +19,11 @@
 
 ### 🌐 NetLab — Laboratorio de Redes Cisco
 
-Laboratorio práctico desarrollado en Cisco Packet Tracer, orientado al diseño, implementación y administración de una infraestructura de red empresarial.
+Laboratorio práctico de diseño e implementación de una infraestructura de red empresarial en Cisco Packet Tracer.
 
-- Segmentación de red mediante VLAN y configuración de enlaces troncales.
-- Implementación de enrutamiento inter-VLAN y protocolo OSPF.
-- Configuración de servicios DHCP y DHCP Relay.
-- Implementación de NAT/PAT y listas de control de acceso (ACL).
-- Aplicación de medidas de seguridad y administración de dispositivos Cisco.
+- Segmentación mediante VLAN, enlaces troncales y enrutamiento inter-VLAN.
+- Configuración de OSPF, DHCP y DHCP Relay.
+- Implementación de NAT/PAT, ACL y seguridad de dispositivos.
 - Diagnóstico y resolución de problemas de conectividad.
 
 **Tecnologías:** Cisco Packet Tracer · VLAN · OSPF · DHCP · NAT/PAT · ACL.
@@ -34,18 +32,16 @@ Laboratorio práctico desarrollado en Cisco Packet Tracer, orientado al diseño,
 
 ### ☁️ Laboratorios AWS
 
-Prácticas orientadas a la exploración, configuración y administración de servicios de infraestructura en Amazon Web Services.
+Prácticas de configuración y administración de servicios de infraestructura en AWS.
 
-- **Amazon S3:** creación y administración de buckets y almacenamiento de objetos.
-- **Amazon EC2:** exploración y configuración de instancias virtuales.
-- **Amazon VPC:** configuración de redes virtuales y sus componentes.
-- **AWS IAM:** administración de usuarios, grupos y permisos de acceso.
+- **S3:** almacenamiento y administración de objetos.
+- **EC2:** configuración de instancias virtuales.
+- **VPC:** configuración de redes virtuales.
+- **IAM:** administración de usuarios y permisos.
 
 **Tecnologías:** AWS · S3 · EC2 · VPC · IAM.
 
 [Ver proyecto en GitHub](TU_REPOSITORIO_AWS)
-
-
 
 ---
 
