@@ -28,7 +28,7 @@ Laboratorio práctico de diseño e implementación de una infraestructura de red
 
 **Tecnologías:** Cisco Packet Tracer · VLAN · OSPF · DHCP · NAT/PAT · ACL.
 
-[Ver proyecto en GitHub](TU_REPOSITORIO_NETLAB)
+[Ver proyecto en GitHub](https://github.com/alexjsh7/Netlab)
 
 ### ☁️ Laboratorios AWS
 
